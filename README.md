@@ -4,6 +4,5 @@
 - run `go install` to install dependencies
 - set environment in .env file
 - run main package to merge master/main in all sub branches
-  9
   `go run main.go`
   
